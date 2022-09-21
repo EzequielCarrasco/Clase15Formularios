@@ -15,5 +15,6 @@ Disfruto aprender nuevas tecnologias y estar al tanto de las mismas. En mis tiem
 ●Ezequiel Carrasco: Hola soy Ezequiel, tengo 26 años y trabajo como analista funcional en la una consultoria IT.
 Me gusta ver series y películas. Pasó bastante tiempo con mi familia y amigos.
 
-
+●Sebastian Cativa: Hola soy Sebastian, tengo 36 años y hace 7 años trabajo en el comercio. Estoy a cargo de un mayorista que tiene varias sucursales en nuestro país.
+Siempre quise aprender programación y al fin me animé... me cuesta mucho pero me encanta salir de mi zona de confort. Me encantan los videos juegos, programar, ir al gym 💪 y viajar para conocer nuevas culturas. 
 */
