@@ -17,4 +17,7 @@ Me gusta ver series y películas. Pasó bastante tiempo con mi familia y amigos.
 
 ●Sebastian Cativa: Hola soy Sebastian, tengo 36 años y hace 7 años trabajo en el comercio. Estoy a cargo de un mayorista que tiene varias sucursales en nuestro país.
 Siempre quise aprender programación y al fin me animé... me cuesta mucho pero me encanta salir de mi zona de confort. Me encantan los videos juegos, programar, ir al gym 💪 y viajar para conocer nuevas culturas. 
+
+●Gabriel De Pïano: Hola soy Gabriel. Tengo 31 años. Soy licenciado en química y trabajo en temas relacionados con lo que estudie. Me gusta mucho viajar y hacer deportes, como por ejemplo, remo, natación, deportes de montaña, etc. 
+
 */
